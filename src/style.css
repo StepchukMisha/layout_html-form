@@ -1,1 +1,17 @@
 /* styles go here */
+.form-field {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.input-field:last-child {
+  margin-bottom: 0;
+}
+
+.cats {
+  margin-top: 10px;
+}
